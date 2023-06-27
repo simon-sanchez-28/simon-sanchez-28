@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently studying a technological degree on Information Systems<br>⭐ I'm looking to collaborate with open minded people <br>🤝 I'm looking for help to make more beautiful, user-friendly user interfaces and websites<br>🎨 I'm currently learning vanilla JavaScript and enhancing my Html/Css skills
+⭐ I'm looking to collaborate with open minded people <br>🤝 I'm looking for help to make more beautiful, user-friendly user interfaces and websites<br>🎨 I'm currently learning vanilla JavaScript and enhancing my Html/Css skills
 
 
 ## 🌐 Socials:
